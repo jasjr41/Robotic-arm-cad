@@ -30,15 +30,15 @@ cad_files/
 ├── assembly_files
 ├── drawings
 └── README.md
+
 ⚙️ Features
+
 Parametric CAD design
 Industrial gripper mechanism
 Easy to modify components
 Assembly-ready models
 Suitable for simulation & prototyping
-🚀 How to Use
-Clone the repository
-git clone https://github.com/jasjr41/Robotic-arm-cad.git
+
 Open CAD files in your preferred software:
 SolidWorks
 Fusion 360
