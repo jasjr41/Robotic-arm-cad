@@ -22,13 +22,20 @@ Academic lab work
 SolidWorks / Fusion 360 / AutoCAD (depending on file type)
 CAD Modeling Tools
 Git & GitHub for version control
+
 📂 Repository Structure
+
 cad_files/
 │
+
 ├── gripper_base
+
 ├── gripper_fingers
+
 ├── assembly_files
+
 ├── drawings
+
 └── README.md
 
 ⚙️ Features
